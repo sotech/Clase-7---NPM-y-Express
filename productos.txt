@@ -1,0 +1,1 @@
+[{"title": "Pato de madera","price": 126,"thumbnail": "patoMadera.jpg","id": 1},{"title": "Perro de plata","price": 251,"thumbnail": "perroPlata.jpg","id": 2},{"title": "Gato de Cristal","price": 374,"thumbnail": "gatoCristal.jpg","id": 3}]
